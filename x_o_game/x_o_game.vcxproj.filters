@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="x_o_game.cpp">
+    <ClCompile Include="library.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
